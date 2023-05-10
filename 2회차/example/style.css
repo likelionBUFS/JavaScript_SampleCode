@@ -19,6 +19,8 @@ div {
     align-items: center;
 
     font-weight:bolder;
+
+    transition:all 1s;
 }
 
 .button1{
