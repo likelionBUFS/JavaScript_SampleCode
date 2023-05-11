@@ -1,4 +1,5 @@
 // console.log()
+// 배열
 // 1. document해서 요소 선택하기
 
 // 2. document 해서 요소 생성하기
